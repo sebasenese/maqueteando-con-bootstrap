@@ -1,0 +1,17 @@
+* {background-color:  rgb(12, 12, 59) ;
+color: #fff;}
+
+.navbar-nav li a { transition: o.5s;}
+.navbar-nav li a:hover {
+    transform: scale(1.1);}
+
+.titulos-mic { text-decoration: underline;}
+.tarjeta-color {background-color: rgb(88, 88, 207);}
+.footer {background-color: black;}
+.footer div {background-color: black;}
+.texto-nt { display: flex;
+    justify-content: center;}
+
+
+.texto-nt p{ width: 80%;
+}
